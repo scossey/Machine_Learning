@@ -1,1 +1,3 @@
-# MLG_customer_segmentation
+# Machine Learning projects
+
+Includes supervised and unsupervised learning
